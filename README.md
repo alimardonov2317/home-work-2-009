@@ -1,0 +1,1 @@
+Ushbu loyihada [Figma](https://www.figma.com/design/fNlVVmDsllzS0Ns7CKlWiN/Realco-(Copy)?node-id=0-1&node-type=canvas&t=RyYa5q7ZonqezZjQ-0) saytidan bitta loyihani clone yasalgan.
